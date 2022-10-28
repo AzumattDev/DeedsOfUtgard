@@ -14,7 +14,7 @@ namespace DeedsOfUtgard
     public class DeedsOfUtgardPlugin : BaseUnityPlugin
     {
         internal const string ModName = "DeedsOfUtgard";
-        internal const string ModVersion = "1.1.0";
+        internal const string ModVersion = "1.1.1";
         internal const string Author = "Azumatt";
         private const string ModGUID = Author + "." + ModName;
         private static string ConfigFileName = ModGUID + ".cfg";
