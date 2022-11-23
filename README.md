@@ -60,6 +60,8 @@ For Questions or Comments, find me in the Odin Plus Team Discord or in mine:
 <a href="https://discord.gg/pdHgy6Bsng"><img src="https://i.imgur.com/Xlcbmm9.png" href="https://discord.gg/pdHgy6Bsng" width="175" height="175"></a>
 ***
 > # Update Information (Latest listed first)
+> ### 1.1.3
+> - Update for Mistlands
 > ### 1.1.2
 > - Update ServerSync internally.
 > ### 1.1.1
