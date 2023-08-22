@@ -1,4 +1,6 @@
 > # Update Information (Latest listed first)
+> ### 1.1.6
+> - Update for Valheim 0.217.14 (Hildir's Request)
 > ### 1.1.5
 > - Update for Valheim 0.216.9
 > ### 1.1.4
